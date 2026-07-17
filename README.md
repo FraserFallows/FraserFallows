@@ -1,16 +1,10 @@
-## Hi there 👋
-
-<!--
-**FraserFallows/FraserFallows** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Ah, a visitor 👋
+ 
+Software developer with a background in Unity and C#. Comfortable being uncomfortable, happy to dive into new stacks and figure it out.
+ 
+* 🎮 Shipped an educational app in Unity
+* 🧠 Strategy games enthusiast
+* 🔭 Generalising by design, one project at a time
+Always keen to hear about interesting problems to solve, feel free to reach out.
+ 
+[LinkedIn](https://www.linkedin.com/in/fraser-fallows/)
